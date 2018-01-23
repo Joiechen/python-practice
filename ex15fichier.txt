@@ -1,0 +1,3 @@
+C'est le fichier que je veux utiliser comme exemple. 
+J'aime la coffee.
+Pourquoi cette ligne n'est pas imprimee.

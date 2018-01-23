@@ -1,0 +1,3 @@
+Ceci est la premiere ligne d'entree.
+Ceci est la deuxieme ligne d'entree.
+Cece est la troisieme ligne d'entree.
